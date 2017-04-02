@@ -1,4 +1,4 @@
-#tests
+# tests
 ### Install Node.js
 
 Download and install the node.js binaries for your platform from the [Node.js download page](http://nodejs.org/download/).
